@@ -1,0 +1,21 @@
+body{
+    background-color: violet;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #fe0;
+}
